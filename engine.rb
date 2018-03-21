@@ -1,4 +1,2 @@
 class GameEngine
-
-
 end
