@@ -23,5 +23,5 @@ elsif user_feeling == "sad"
     sleep(3)
   puts ("You little, you little dumb ass bitch, I ain't fuckin' with you").upcase
   sleep(3)
-  puts ("I got a million trillion things I'd rather fuckin' do, then to be fuckin' with you").upcase
+  puts ("I got a million trillion things I'd rather fuckin' do, than to be fuckin' with you").upcase
 end
